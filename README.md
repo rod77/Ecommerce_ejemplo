@@ -1,10 +1,10 @@
 # Ecommerce de ejemplo
 
-_Se crea un ecommerce para el curso de Coderhouse: React _
+_Se crea un ecommerce para el curso de Coderhouse: React_ 
 
 ## Comenzando 🚀
 
-_La idea es que los alumnos tengan una guia para realizar hasta la preentrega del proyecto._
+_La idea es que los alumnos tengan una guia para realizar hasta la preentrega del proyecto_
 
 ### Instalación 🔧
 
@@ -31,7 +31,7 @@ _Se puede clonar el repositorio, ingresando a una terminal y ejecutando:_
 ```
 git clone https://github.com/rod77/Ecommerce_ejemplo.git
 ```
-_Luego continuar con el paso 3 de la otra forma 
+Luego continuar con el paso 3 de la otra forma 
 
 ## Despliegue 📦
 
