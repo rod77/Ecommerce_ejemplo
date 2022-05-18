@@ -20,6 +20,11 @@ const Cart = () => {
               {`Total:  $ ${getTotal()}`}
               <br/>
               <button className="btn btn-danger" onClick={clear}>Vaciar Carrito</button>
+              <br />
+              <br />
+                <Link to='/checkout'>
+                  <button className="btn btn-info">Finalizar Compra</button>
+                </Link>
             </div>
           </div>
         ) : (

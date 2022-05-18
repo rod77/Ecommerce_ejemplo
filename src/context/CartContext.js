@@ -11,10 +11,20 @@ const CartProvider = ({ children }) => {
         if (!isInCart(item.id)) {
             setCart([...cart, itemAmount]);
         } else {
-            const cartAux = cart
-            const pos = cart.findIndex((item) => item.id === itemAmount.id);
-            cartAux[pos].amount = cartAux[pos].amount + amount
-            setCart(cartAux)
+            
+            const newProducts = cart.map(prod => {
+                if(prod.id === item.id) {
+                    const newProduct = {
+                        ...prod,
+                        amount: prod.amount + amount
+                    }
+                    return newProduct
+                } else {
+                    return prod
+                }
+            })
+
+            setCart(newProducts)
         }
     };
     

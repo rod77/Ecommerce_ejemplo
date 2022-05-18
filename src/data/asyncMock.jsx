@@ -5,7 +5,7 @@ export const listadoProdutos=[
 		description:"ZAPATILLAS GRAND COURT. ZAPATILLAS MINIMALISTAS CON UN ESTILO CLÁSICO",		
         img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9598a1cf2924169888aa9810136e6d6_9366/Zapatillas_Grand_Court_Blanco_F36485_01_standard.jpg",		
         img2:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f8daa3996318420490c6a9810136ff67_9366/Zapatillas_Grand_Court_Blanco_F36485_02_standard_hover.jpg",
-		name:"Zapatillas Grand Court",
+		name:"mock - Zapatillas Grand Court",
 		price:12499,
 		stock:5
 	},
@@ -15,7 +15,7 @@ export const listadoProdutos=[
 		description:"ZAPATILLAS RUNFALCON. ZAPATILLAS DE MÁXIMA SUJECIÓN PARA TUS SALIDAS DIARIAS A CORRER",		
 		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/449c838942da409f8ba9a97f00d3cffe_9366/Zapatillas_Runfalcon_Negro_F36199_01_standard.jpg",		
         img2:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ebac268f4d7e4e389006a97f00d3fbfb_9366/Zapatillas_Runfalcon_Negro_F36199_04_standard.jpg",
-		name:"Zapatillas RunFalcon",
+		name:"mock - Zapatillas RunFalcon",
 		price:11499,
 		stock:4
 	},
@@ -35,7 +35,7 @@ export const listadoProdutos=[
 		description:"REMERA ADICOLOR CLASSICS 3 TIRAS. UNA REMERA DE ALGODÓN SUAVE PARA RELAJARSE EN SERIO",		
 		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff058259bf8f4615a3ddab73012befc9_9366/Gorra_Beisbol_Vintage_Goofy_(UNISEX)_Negro_GD5509_01_standard.jpg",		
         img2:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad4336e7024347c5b0acab7400b2e905_9366/Gorra_Beisbol_Vintage_Goofy_(UNISEX)_Negro_GD5509_42_detail.jpg",
-		name:"Gorra Beisbol Goofy",
+		name:"mock - Gorra Beisbol Goofy",
 		price:7499,
 		stock:2
 	},
@@ -45,7 +45,7 @@ export const listadoProdutos=[
 		description:"GORRA BÉISBOL VINTAGE GOOFY (UNISEX) UNA GORRA DIVERTIDA CREADA POR LA COLABORACIÓN ENTRE ADIDAS Y DISNEY",		
 		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fcae6f5e2cdc41e390b9ad58009a1f53_9366/Remera_Adicolor_Classics_3_Tiras_Granate_H06774_21_model.jpg",		
         img2:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fa2b0dd099a4994b083ad57010749d6_9366/Remera_Adicolor_Classics_3_Tiras_Granate_H06774_01_laydown.jpg",
-		name:"Remera Adicolor Classics 3 Tiras",
+		name:"mock - Remera Adicolor Classics 3 Tiras",
 		price:6999,
 		stock:7
 	},
@@ -55,7 +55,7 @@ export const listadoProdutos=[
 		description:"REMERA DISNEY MICKEY Y AMIGOS. UNA REMERA ÚNICA DE ADIDAS ORIGINALS X DISNEY",		
 		img:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2886d7608f5447c2b0e9ad030147350e_9366/Remera_Disney_Mickey_y_Amigos_Blanco_H22579_01_laydown.jpg",		
         img2:"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2124814f40054bf2a845ad0301473bfa_9366/Remera_Disney_Mickey_y_Amigos_Blanco_H22579_02_laydown_hover.jpg",
-		name:"Remera Disney Mickey y Amigos",
+		name:"mock - Remera Disney Mickey y Amigos",
 		price:5999,
 		stock:7
 	}
